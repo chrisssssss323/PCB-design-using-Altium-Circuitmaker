@@ -22,9 +22,18 @@ Udemy Tutor - Andre Lamothe
 
 ![image](https://user-images.githubusercontent.com/72557903/204140326-a9f92f9d-6ce4-4a0a-9e10-2b988fd72fbd.png)
 
+* Next step -> Addition of ground planes. We add these to provide heat sinks, reduce stray capacitances and these are added on either side of the board. Check other uses! (EM issues,etc.)
 
 * Before Auto-Routing ->
 
 ![image](https://user-images.githubusercontent.com/72557903/204140444-f2a84029-9ae0-40cc-bcdc-4a495f053fb1.png)
 
 * Studied Hardware techniques from Andre's book.
+
+* Polygon Pour.
+Top layer pour!
+
+![image](https://user-images.githubusercontent.com/72557903/204148164-45de3a34-86bb-4b20-88f8-c5e75b65cf0d.png)
+
+* Next Step -> ROUTING!
+
