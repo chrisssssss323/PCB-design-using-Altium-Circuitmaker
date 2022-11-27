@@ -27,3 +27,4 @@ Udemy Tutor - Andre Lamothe
 
 ![image](https://user-images.githubusercontent.com/72557903/204140444-f2a84029-9ae0-40cc-bcdc-4a495f053fb1.png)
 
+* Studied Hardware techniques from Andre's book.
